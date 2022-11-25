@@ -1,4 +1,5 @@
 //79 - Word Search
+//Given a 2D board and a word, find if the word exists in the grid.
 void main(List<String> args) {
   var board = [
     ["A", "B", "C", "E"],
